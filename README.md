@@ -1,3 +1,5 @@
+<img src="assets/python_app_humor.jpg">
+
 ### A Brief Bio 👋
 
 Hi! 
@@ -16,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
