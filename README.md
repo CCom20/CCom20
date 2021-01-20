@@ -5,7 +5,9 @@
 
 ### A Brief Bio 👋
 
-English major turned Data Analyst, I bring a creative-analytical approach to all my projects. 
+I have always felt a pull to be analytical and creative. Whether selling paint, working in retail, landscaping, or trying to start a digital magazine, I was always looking for ways to create new products and improve systems. One day, while working with data from Google Analytics, I decided to give Python a try. Immediately, I fell in love with coding and analytics.
+
+Now, I am finishing up a Data Analytics certificate through the University of Denver. Concepts that once sounded like a monologue from Star Trek: TNG’s “Data” now seem simple. I have a lot more to learn and am looking forward to growing in my career and knowledge as a budding data analyst. 
 
 **Languages**
 
@@ -15,22 +17,3 @@ English major turned Data Analyst, I bring a creative-analytical approach to all
 - R
 - HTML
 - CSS
-
-
-
-<!--
-**CCom20/CCom20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
