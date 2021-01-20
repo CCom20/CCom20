@@ -3,7 +3,7 @@
 > "Apologies, Captain…I seem to have reached an odd functional impasse. I am, uh…stuck."\
 > **–JavaScript** ... & **Lt. Cmdr. Data**, *Star Trek, The Next Generation*
 
-### A Brief Bio 👋
+### Hi, I'm Cole Comstock 👋
 
 I have always felt a pull to be analytical and creative. Whether selling paint, working in retail, landscaping, or trying to start a digital magazine, I was always looking for ways to create new products and improve systems. One day, while working with data from Google Analytics, I decided to give Python a try. Immediately, I fell in love with coding and analytics.
 
@@ -11,7 +11,7 @@ Now, I am finishing up a Data Analytics certificate through the University of De
 
 **Languages**
 
-- Python
+- Python 
 - SQL
 - JavaScript
 - R
