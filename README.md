@@ -1,7 +1,7 @@
 <img src="assets/github_banner.jpg">
-    Apologies, Captain…I seem to have reached an odd functional impasse. I am, uh…stuck.
-    – Lt. Cmdr. Data (Also said by Javascript on multiple occasions.)
-    *Star Trek, The Next Generation*
+    > Apologies, Captain…I seem to have reached an odd functional impasse. I am, uh…stuck.
+      – Lt. Cmdr. Data (Also said by Javascript on multiple occasions.)
+      *Star Trek, The Next Generation*
 
 ### A Brief Bio 👋
 
