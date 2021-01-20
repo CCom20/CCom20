@@ -1,8 +1,22 @@
-<img src="assets/python_app_humor.jpg">
+<img src="assets/github_banner.jpg">
+    Apologies, Captain…I seem to have reached an odd functional impasse. I am, uh…stuck.
+    – Lt. Cmdr. Data (Also said by Javascript on multiple occasions.)
+    *Star Trek, The Next Generation*
 
 ### A Brief Bio 👋
 
-Hi! 
+English major turned Data Analyst, I bring a creative-analytical approach to all my projects. 
+
+**Languages**
+
+- Python
+- SQL
+- JavaScript
+- R
+- HTML
+- CSS
+
+
 
 <!--
 **CCom20/CCom20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
