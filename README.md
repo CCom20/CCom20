@@ -5,9 +5,9 @@
 
 ### 👋 Hi, I'm Cole Comstock. Here's a little about me... 
 
-I have always felt a pull to be analytical and creative. Whether selling paint, working in retail, landscaping, or trying to start a digital magazine, I was always looking for ways to create new products and improve systems. One day, while working with data from Google Analytics, I decided to give Python a try. Immediately, I fell in love with coding and analytics.
+I am analytical and creative. Whether selling paint, working in retail, landscaping, or starting a digital magazine, I am always looking for ways to create new products and improve systems. While working with data from Google Analytics, I decided to try Python, and I immediately fell in love with coding and analytics.
 
-Now, I am finishing up a Data Analytics certificate through the University of Denver. Concepts that once sounded like a monologue from Star Trek: TNG’s “Data” now seem simple. I have a lot more to learn and am looking forward to growing in my career and knowledge as a budding data analyst. 
+Currently, I am completing a Data Analytics certificate through the University of Denver. Concepts that once sounded like a monologue from Star Trek: TNG’s “Data” now seem simple. While I have more to learn, I look forward to growing in my career and knowledge as a data analyst. 
 
 **Languages**
 
