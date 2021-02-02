@@ -3,6 +3,8 @@
 > "Apologies, Captain…I seem to have reached an odd functional impasse. I am, uh…stuck."\
 > **–JavaScript** ... & **Lt. Cmdr. Data**, *Star Trek: The Next Generation*
 
+[LinkedIn](https://www.linkedin.com/in/coledcomstock/)
+
 ### 👋 Hi, I'm Cole Comstock. Here's a little about me... 
 
 I am analytical and creative. I am always looking for ways to create new products and improve systems. While working with data from Google Analytics, I decided to try Python, and I immediately fell in love with coding and analytics.
