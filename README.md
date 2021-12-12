@@ -1,8 +1,5 @@
 <img src="assets/github_banner.jpg">
 
-> "Apologies, Captain…I seem to have reached an odd functional impasse. I am, uh…stuck."\
-> **–JavaScript** ... & **Lt. Cmdr. Data**, *Star Trek: The Next Generation*
-
 [LinkedIn](https://www.linkedin.com/in/coledcomstock/)
 
 ### 👋 Hi, I'm Cole Comstock. Here's a little about me... 
